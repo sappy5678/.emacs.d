@@ -2,7 +2,8 @@
 (elpy-enable)
 ;;掃描~/.emacs.d目錄
 (add-to-list 'load-path "~/.emacs.d/rc")
-(require 'rc-windcycle)  ;;a windows控制
+(require 'rc-windcycle);;a windows控制
+(require 'rc-mysql)  ;;mysql使用
 
 ;; package.el 相關設定
 (require 'package)
