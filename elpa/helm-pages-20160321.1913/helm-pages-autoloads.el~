@@ -1,0 +1,13 @@
+;;; helm-pages-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'helm-pages-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; helm-pages-autoloads.el ends here
